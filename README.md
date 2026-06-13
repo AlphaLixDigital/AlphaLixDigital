@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Welcome to AlphaLix Digital
 
-<!--
-**AlphaLixDigital/AlphaLixDigital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 We build custom web apps & AI solutions for businesses globally.
 
-Here are some ideas to get you started:
+## 🛠️ What We Do
+- Custom Web Development
+- AI Solutions & Chatbots  
+- UI/UX Design
+- API Integrations
+- E-commerce Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Our Tech Stack
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+## 📫 Contact Us
+- 🌐 Website: https://alphalix-digital.netlify.app
+- 📧 Email: alphalixdigital@gmail.com
+- 💼 LinkedIn: linkedin.com/company/alphalix-digital
+- 📍 Lahore, Pakistan
