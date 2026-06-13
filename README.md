@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://alphalix-digital.netlify.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=false&width=600&lines=🚀+Building+the+Future+of+the+Web;🤖+AI+Solutions+That+Actually+Work;💻+Custom+Apps+for+Growing+Businesses;🌍+Serving+Clients+Globally;⚡+Fast.+Scalable.+Intelligent." alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=🚀+Building+the+Future+of+the+Web;🤖+AI+Solutions+That+Actually+Work;💻+Custom+Apps+for+Growing+Businesses;🌍+Serving+Clients+Globally;⚡+Fast.+Scalable.+Intelligent." alt="Typing SVG" />
 </a>
 
 <br/>
