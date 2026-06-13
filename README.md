@@ -18,8 +18,8 @@
 <br/>
 
 <!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=alphalixdigital-dev&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/alphalixdigital-dev?color=00ccff&style=for-the-badge&logo=github&label=FOLLOWERS)](https://github.com/alphalixdigital-dev)
+![Profile Views](https://komarev.com/ghpvc/?username=AlphaLixDigital&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/AlphaLixDigital?color=00ccff&style=for-the-badge&logo=github&label=FOLLOWERS)](https://github.com/AlphaLixDigital)
 
 </div>
 
@@ -140,12 +140,12 @@ const AlphaLixDigital = {
 <div align="center">
 <h2>📊 GitHub Stats</h2>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=alphalixdigital-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ccff&text_color=ffffff&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alphalixdigital-dev&theme=radical&hide_border=true&background=0d1117&stroke=00ff88&ring=00ccff&fire=ff6b6b&currStreakNum=ffffff&currStreakLabel=00ff88&sideNums=ffffff&sideLabels=00ccff&dates=888888" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AlphaLixDigital&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ccff&text_color=ffffff&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AlphaLixDigital&theme=radical&hide_border=true&background=0d1117&stroke=00ff88&ring=00ccff&fire=ff6b6b&currStreakNum=ffffff&currStreakLabel=00ff88&sideNums=ffffff&sideLabels=00ccff&dates=888888" />
 
 <br/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphalixdigital-dev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&langs_count=8" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaLixDigital&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&langs_count=8" />
 
 </div>
 
@@ -155,7 +155,7 @@ const AlphaLixDigital = {
 <div align="center">
 <h2>📈 Contribution Graph</h2>
 
-[![AlphaLix Digital's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alphalixdigital-dev&bg_color=0d1117&color=00ff88&line=00ccff&point=ffffff&area=true&hide_border=true&area_color=7c3aed)](https://github.com/alphalixdigital-dev)
+[![AlphaLix Digital's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlphaLixDigital&bg_color=0d1117&color=00ff88&line=00ccff&point=ffffff&area=true&hide_border=true&area_color=7c3aed)](https://github.com/AlphaLixDigital)
 
 </div>
 
@@ -185,9 +185,9 @@ const AlphaLixDigital = {
 <h2>🐍 Contribution Snake</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alphalixdigital-dev/alphalixdigital-dev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alphalixdigital-dev/alphalixdigital-dev/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alphalixdigital-dev/alphalixdigital-dev/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlphaLixDigital/AlphaLixDigital/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlphaLixDigital/AlphaLixDigital/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AlphaLixDigital/AlphaLixDigital/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
